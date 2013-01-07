@@ -1,0 +1,20 @@
+{
+  "name": "arcball",
+  "version": "0.0.0",
+  "description": "A simple library agnostic arcball camera.",
+  "main": "arcball.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/Arcball.git"
+  },
+  "keywords": [
+    "arcball",
+    "3D",
+    "quaternion",
+    "webgl"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "2b1e7856deb7a91011228cb36c4fd2feedba0a53"
+}
